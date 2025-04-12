@@ -1,0 +1,12 @@
+Performance Test Results
+======================
+Date: Sat Apr 12 11:58:14 +0545 2025
+
+Single Year Test (1980):
+Execution time without PaSh: 30 seconds
+PaSh not installed. Test skipped.
+
+Multiple Years Test:
+Execution time for 10 years without PaSh: 144 seconds
+PaSh not installed. Test skipped.
+
