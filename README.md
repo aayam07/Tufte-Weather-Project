@@ -102,9 +102,6 @@ The output will be saved as a PNG file in the `output` directory: `nyc_weather_[
 - The visualization is optimized for print quality
 - PaSh parallelization is optional and only used if installed
 
-## 📝 License
-
-[Add your license information here]
 
 
 
