@@ -18,7 +18,7 @@ Before running the project, ensure you have the following installed:
 ## 📁 Project Structure
 
 ```
-/Tufte Weather Trae/
+/Tufte Weather Project/
 ├── data/                  # Raw and processed weather data
 │   └── processed/        # Extracted and formatted data files
 ├── output/               # Generated visualizations
@@ -36,7 +36,7 @@ Before running the project, ensure you have the following installed:
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd "Tufte Weather Trae"
+cd "Tufte-Weather-Project"
 ```
 
 2. Install Python dependencies:

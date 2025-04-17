@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Script to install PaSh for parallelization
-# Based on instructions from https://github.com/binpash/pash
 
 echo "Installing PaSh..."
 
